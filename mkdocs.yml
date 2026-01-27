@@ -1,0 +1,14 @@
+site_name: Moje projekty
+site_author: Adam Musiał
+site_description: >-
+    Portfolio moich wspaniałych projektów z Data Science i AI!
+
+theme:
+  name: material
+
+nav:
+- Homepage: index.md
+- Data/AI/ML projects:
+  - "Titanic": titanic/index.md
+- Frontend development projects:
+  - "Iris": iris/index.md
