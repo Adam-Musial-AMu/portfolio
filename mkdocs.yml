@@ -13,5 +13,7 @@ nav:
 - Homepage: index.md
 - Data/AI/ML projects:
   - "Titanic": titanic/index.md
-- Frontend development projects:
   - "Iris": iris/index.md
+- Frontend development projects:
+  - "Frontend Portfolio Site": frontend_portfolio/index.md
+  
