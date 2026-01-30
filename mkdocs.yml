@@ -8,6 +8,13 @@ repo_url: https://github.com/Adam-Musial_AMu/portfolio
 
 theme:
   name: material
+  features:
+    - content.tabs.link
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 nav:
 - Homepage: index.md
