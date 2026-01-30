@@ -551,6 +551,9 @@
   
 
 
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">EN</label><label for="__tabbed_1_2">PL</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
 <h1 id="frontend-data-ai-portfolio">Frontend, Data &amp; AI Portfolio</h1>
 <p>I build modern, lightweight, and user-friendly interfaces by combining <strong>clean design</strong>, <strong>performance</strong>, and <strong>code clarity</strong>. My portfolio showcases not only <strong>frontend development projects</strong>, but also work related to <strong>Data Analysis, Artificial Intelligence, and Machine Learning</strong>.</p>
 <p>The projects presented focus on real-world problems and solid technical foundations, covering both <strong>user-facing applications</strong> and <strong>data-driven solutions</strong>.</p>
@@ -576,7 +579,8 @@ View My Portfolio
 - my approach to building user interfaces and data-driven systems<br />
 - real projects rather than theoretical examples  </p>
 <p>The website is continuously updated with new frontend, data, and AI-related projects as I grow and gain experience.</p>
-<hr />
+</div>
+<div class="tabbed-block">
 <h1 id="portfolio-frontend-data-ai">Portfolio Frontend, Data &amp; AI</h1>
 <p>Tworzę nowoczesne, lekkie i intuicyjne interfejsy użytkownika, łącząc <strong>estetykę</strong>, <strong>wydajność</strong> oraz <strong>czytelność kodu</strong>. Moje portfolio prezentuje nie tylko <strong>projekty frontendowe</strong>, ale również realizacje z obszaru <strong>analizy danych, sztucznej inteligencji oraz uczenia maszynowego (Data / AI / ML)</strong>.</p>
 <p>Prezentowane projekty skupiają się na rozwiązywaniu realnych problemów — zarówno po stronie <strong>interfejsów użytkownika</strong>, jak i <strong>rozwiązań opartych na danych</strong> oraz modelach analitycznych.</p>
@@ -602,6 +606,9 @@ Zobacz moje portfolio
 - podejście do budowania interfejsów oraz systemów opartych na danych<br />
 - realne projekty, a nie tylko teoretyczne przykłady  </p>
 <p>Strona jest stale rozwijana i uzupełniana o nowe projekty frontendowe, data-science’owe oraz AI wraz z rozwojem mojego doświadczenia.</p>
+</div>
+</div>
+</div>
 
 
 
@@ -619,6 +626,8 @@ Zobacz moje portfolio
             </div>
           
           
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
@@ -651,7 +660,7 @@ Zobacz moje portfolio
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["content.tabs.link"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
