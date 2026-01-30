@@ -42,18 +42,6 @@
     Whether you are reviewing my work professionally or exploring out of curiosity —
     you’re in the right place.
 
-    ---
-
-    ## Start exploring
-
-    <a href="frontend_portfolio/" class="md-button md-button--primary">
-    Explore Projects
-    </a>
-
-    <a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button">
-    Visit Full Portfolio
-    </a>
-
 
 === "PL"
 
@@ -99,15 +87,3 @@
 
     Niezależnie od tego, czy przeglądasz moje projekty zawodowo,
     czy z czystej ciekawości — jesteś w dobrym miejscu.
-
-    ---
-
-    ## Zacznij eksplorować
-
-    <a href="frontend_portfolio/" class="md-button md-button--primary">
-    Przeglądaj projekty
-    </a>
-
-    <a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button">
-    Przejdź do pełnego portfolio
-    </a>

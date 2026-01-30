@@ -20,7 +20,7 @@
     If you’d like to explore **the full scope of my work — from frontend to data and AI**, feel free to visit my complete portfolio:
 
     <a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button md-button--primary" target="_blank">
-    View My Portfolio
+    View My Full Portfolio
     </a>
 
     ---
@@ -56,7 +56,7 @@
     Jeżeli chcesz zobaczyć **pełny zakres moich prac — od frontend developmentu po Data i AI**, zapraszam do mojego głównego portfolio:
 
     <a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button md-button--primary" target="_blank">
-    Zobacz moje portfolio
+    Zobacz moje pełne portfolio
     </a>
 
     ---
