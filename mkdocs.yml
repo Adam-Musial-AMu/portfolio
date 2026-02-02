@@ -19,6 +19,7 @@ markdown_extensions:
 nav:
 - Homepage: index.md
 - Data/AI/ML projects:
+  - "Lingoduo_app": lingoduo/index.md
   - "Titanic": titanic/index.md
   - "Iris": iris/index.md
 - Frontend, Data & AI Portfolio:
