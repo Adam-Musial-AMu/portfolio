@@ -20,8 +20,8 @@ nav:
 - Homepage: index.md
 - Data/AI/ML projects:
   - "Lingoduo_app": lingoduo/index.md
-  - "Titanic": titanic/index.md
-  - "Iris": iris/index.md
+  - "Titanic EDA": titanic/index.md
+  - "Iris EDA": iris/index.md
 - Frontend, Data & AI Portfolio:
   - "Full Portfolio Site": full_portfolio/index.md
   
