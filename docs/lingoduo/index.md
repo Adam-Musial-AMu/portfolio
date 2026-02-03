@@ -49,6 +49,11 @@ _AI Project · Web Application_
 
     ---
 
+    ![Video translation generation screen](image_1.png)
+    ![Audio translation generation screen](image_2.png)
+
+    ---
+
     **Tech stack:**  
     Python · Streamlit · OpenAI API · Whisper · GPT · HTML · Jinja2
 
@@ -95,3 +100,14 @@ _AI Project · Web Application_
     ### ▶️ Demo aplikacji
 
     [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge)](https://lingoduoapp.streamlit.app)
+
+    ---
+
+    ![Video translation generation screen](image_1.png)
+    ![Audio translation generation screen](image_2.png)
+
+    ---
+
+    **Tech stack:**  
+    Python · Streamlit · OpenAI API · Whisper · GPT · HTML · Jinja2
+
