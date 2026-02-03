@@ -1,7 +1,7 @@
 
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Analiza eksploracyjna danych (EDA) – zbiór Titanic
 
-Zapraszamy do zapoznania się z wyjątkowym projektem autorstwa Rafała, który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
+W tym projekcie przedstawiam analizę eksploracyjną klasycznego zbioru danych **Titanic**, koncentrując się na identyfikacji czynników wpływających na przeżycie pasażerów. Analiza obejmuje czyszczenie danych, inżynierię cech oraz wizualizacje zależności pomiędzy zmiennymi demograficznymi i socjoekonomicznymi. Celem było nie tylko zrozumienie struktury danych, ale również wyciągnięcie wniosków, które mogą stanowić podstawę do budowy modeli predykcyjnych.
 
 <a href="titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 

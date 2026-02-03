@@ -1,7 +1,7 @@
 
-# Analiza Danych EDA Irysów: Eksploracja Domenowa
+# Analiza eksploracyjna danych (EDA) – zbiór Iris
 
-Zapraszamy do zapoznania się z wyjątkowym projektem autorstwa Rafała, który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
+W tym projekcie prezentuję analizę eksploracyjną zbioru danych **Iris**, jednego z najbardziej klasycznych zestawów danych wykorzystywanych w uczeniu maszynowym. Analiza koncentruje się na zależnościach pomiędzy cechami morfologicznymi kwiatów oraz ich wpływie na rozróżnianie poszczególnych gatunków. W ramach pracy wykonano wstępne przygotowanie danych oraz wizualizacje, które pozwalają lepiej zrozumieć strukturę zbioru i jego potencjał do zastosowań klasyfikacyjnych.
 
 <a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
