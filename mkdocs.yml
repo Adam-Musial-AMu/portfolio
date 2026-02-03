@@ -19,6 +19,7 @@ markdown_extensions:
 nav:
 - Homepage: index.md
 - Data/AI/ML projects:
+  - "Runner_app": runner_app_scc/index.md
   - "Lingoduo_app": lingoduo/index.md
   - "Titanic EDA": titanic/index.md
   - "Iris EDA": iris/index.md
