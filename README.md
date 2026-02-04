@@ -82,7 +82,7 @@ Depending on the project, you will find:
 
 - **Repository name:** `Adam-Musial-AMu/portfolio`  
 - **Repository URL:**  
-  👉 https://github.com/Adam-Musial_AMu/portfolio
+  👉 https://github.com/Adam-Musial-AMu/portfolio
 
 ---
 
@@ -101,7 +101,7 @@ The portfolio website is built using **MkDocs with the Material theme**, enablin
 If you’d like to discuss any project, collaboration, or opportunity, feel free to reach out:
 
 - 📧 Email: adammusial1906@gmail.com  
-- 💻 GitHub: https://github.com/Adam-Musial_AMu
+- 💻 GitHub: https://github.com/Adam-Musial-AMu
 
 
 Thanks for stopping by and taking a look at my work 🚀
