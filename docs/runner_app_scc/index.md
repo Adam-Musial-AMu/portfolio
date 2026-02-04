@@ -69,14 +69,6 @@ _AI Project · ML Inference Web Application_
 
     ---
 
-    ### 📓 Training Notebook
-
-    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](
-    https://github.com/Adam-Musial-AMu/portfolio/releases/download/v1.0-training/train_pre_race_models.ipynb
-    )
-
-    ---
-
     ### ▶️ Live Demo
 
     <a href="https://runnerappscc.streamlit.app/" target="_blank" rel="noopener noreferrer">
@@ -156,14 +148,6 @@ _AI Project · ML Inference Web Application_
 
     Architektura została zaprojektowana z naciskiem na
     **spójność danych**, **bezpieczną inferencję** i **łatwe wersjonowanie modeli**.
-
-    ---
-
-    ### 📓 Notebook treningowy
-
-    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](
-    https://github.com/Adam-Musial-AMu/portfolio/releases/download/v1.0-training/train_pre_race_models.ipynb
-    )
 
     ---
 
