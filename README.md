@@ -98,6 +98,10 @@ The portfolio website is built using **MkDocs with the Material theme**, enablin
 
 ## ✉️ Contact
 
-If you’d like to discuss any project, collaboration, or opportunity — feel free to reach out via GitHub.
+If you’d like to discuss any project, collaboration, or opportunity, feel free to reach out:
+
+- 📧 Email: adammusial1906@gmail.com  
+- 💻 GitHub: https://github.com/Adam-Musial_AMu
+
 
 Thanks for stopping by and taking a look at my work 🚀
