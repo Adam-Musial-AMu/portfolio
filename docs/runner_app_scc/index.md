@@ -71,7 +71,9 @@ _AI Project · ML Inference Web Application_
 
     ### 📓 Training Notebook
 
-    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](train_pre_race_models.ipynb)
+    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](
+    https://github.com/Adam-Musial-AMu/portfolio/releases/download/v1.0-training/train_pre_race_models.ipynb
+    )
 
     ---
 
@@ -159,7 +161,9 @@ _AI Project · ML Inference Web Application_
 
     ### 📓 Notebook treningowy
 
-    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](train_pre_race_models.ipynb)
+    [![Training Notebook](https://img.shields.io/badge/📓%20Training-Notebook-blue?style=for-the-badge)](
+    https://github.com/Adam-Musial-AMu/portfolio/releases/download/v1.0-training/train_pre_race_models.ipynb
+    )
 
     ---
 
