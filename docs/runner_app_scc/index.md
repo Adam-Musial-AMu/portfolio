@@ -10,6 +10,7 @@ _AI Project · ML Inference Web Application_
 
     The project demonstrates a **production-grade machine learning pipeline**, from data validation and model
     versioning to real-time inference in a cloud-deployed Streamlit application.
+    The models were trained based on data from the Wrocław Half Marathon in 2023 and 2024.
 
     ### ▶️ Live Demo
 
@@ -86,6 +87,7 @@ _AI Project · ML Inference Web Application_
 
     Projekt prezentuje **produkcyjny pipeline ML**, obejmujący walidację danych,
     wersjonowanie modeli oraz inferencję w aplikacji webowej.
+    Modele zostały wytrenowane w oparciu o dane z Półmaratonu Wrocławskiego z lat 2023 i 2024.
 
     ### ▶️ Demo aplikacji
 
