@@ -14,7 +14,9 @@ _AI Project · ML Inference Web Application_
 
     ### ▶️ Live Demo
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge)](https://runnerappscc.streamlit.app/)
+    <a href="https://runnerappscc.streamlit.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge" />
+    </a>
 
     ---
 
@@ -69,7 +71,9 @@ _AI Project · ML Inference Web Application_
 
     ### ▶️ Live Demo
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge)](https://runnerappscc.streamlit.app/)
+    <a href="https://runnerappscc.streamlit.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge" />
+    </a>
 
     ---
 
@@ -91,7 +95,9 @@ _AI Project · ML Inference Web Application_
 
     ### ▶️ Demo aplikacji
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge)](https://runnerappscc.streamlit.app/)
+    <a href="https://runnerappscc.streamlit.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge" />
+    </a>
 
     ---
 
@@ -147,7 +153,9 @@ _AI Project · ML Inference Web Application_
 
     ### ▶️ Demo aplikacji
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge)](https://runnerappscc.streamlit.app/)
+    <a href="https://runnerappscc.streamlit.app/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/▶️%20Open%20Demo-Half--Marathon%20Predictor-blue?style=for-the-badge" />
+    </a>
 
     ---
 

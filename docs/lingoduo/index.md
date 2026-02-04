@@ -10,7 +10,9 @@ _AI Project · Web Application_
 
     ### ▶️ Live Demo
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge)](https://lingoduoapp.streamlit.app)
+    <a href="https://lingoduoapp.streamlit.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge" alt="Open LingoDuo Demo" />
+    </a>
 
     ---
 
@@ -45,7 +47,9 @@ _AI Project · Web Application_
 
     ### ▶️ Live Demo
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge)](https://lingoduoapp.streamlit.app)
+    <a href="https://lingoduoapp.streamlit.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge" alt="Open LingoDuo Demo" />
+    </a>
 
     ---
 
@@ -64,7 +68,9 @@ _AI Project · Web Application_
 
     ### ▶️ Demo aplikacji
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge)](https://lingoduoapp.streamlit.app)
+    <a href="https://lingoduoapp.streamlit.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge" alt="Open LingoDuo Demo" />
+    </a>
 
     ---
 
@@ -99,7 +105,9 @@ _AI Project · Web Application_
 
     ### ▶️ Demo aplikacji
 
-    [![Open Demo](https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge)](https://lingoduoapp.streamlit.app)
+    <a href="https://lingoduoapp.streamlit.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/▶️%20Open%20Demo-LingoDuo-blue?style=for-the-badge" alt="Open LingoDuo Demo" />
+    </a>
 
     ---
 
