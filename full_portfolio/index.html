@@ -13,10 +13,8 @@
       
       
       
-        <link rel="prev" href="../titanic/">
+        <link rel="prev" href="../iris/">
       
-      
-        <link rel="next" href="../full_portfolio/">
       
       
         
@@ -27,7 +25,7 @@
     
     
       
-        <title>Iris EDA - My projects / Moje projekty</title>
+        <title>Full Portfolio Site - My projects / Moje projekty</title>
       
     
     
@@ -68,7 +66,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#analiza-eksploracyjna-danych-eda-zbior-iris" class="md-skip">
+        <a href="#frontend-data-ai-portfolio" class="md-skip">
           Skip to content
         </a>
       
@@ -104,7 +102,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Iris EDA
+              Full Portfolio Site
             
           </span>
         </div>
@@ -248,20 +246,18 @@
       
   
   
-    
   
   
-  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
@@ -282,7 +278,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             
@@ -381,19 +377,10 @@
                 
   
   
-    
   
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-      <a href="./" class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../iris/" class="md-nav__link">
         
   
   
@@ -409,7 +396,6 @@
   
 
       </a>
-      
     </li>
   
 
@@ -426,18 +412,20 @@
       
   
   
+    
   
   
+  
     
     
     
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
           <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
@@ -458,7 +446,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             
@@ -473,10 +461,37 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../full_portfolio/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Full Portfolio Site
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   
@@ -492,6 +507,37 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-take-a-look" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why take a look?
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -524,6 +570,25 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#why-take-a-look" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why take a look?
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -542,29 +607,64 @@
   
 
 
-<h1 id="analiza-eksploracyjna-danych-eda-zbior-iris">Analiza eksploracyjna danych (EDA) – zbiór Iris</h1>
-<p>W tym projekcie prezentuję analizę eksploracyjną zbioru danych <strong>Iris</strong>, jednego z najbardziej klasycznych zestawów danych wykorzystywanych w uczeniu maszynowym. Analiza koncentruje się na zależnościach pomiędzy cechami morfologicznymi kwiatów oraz ich wpływie na rozróżnianie poszczególnych gatunków. W ramach pracy wykonano wstępne przygotowanie danych oraz wizualizacje, które pozwalają lepiej zrozumieć strukturę zbioru i jego potencjał do zastosowań klasyfikacyjnych.</p>
-<p><a href="iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a></p>
-<p><iframe
-    id="content"
-    src="iris.html"
-    width="100%"
-    style="border:1px solid black;overflow:hidden;"
-></iframe></p>
-<script>
-function resizeIframeToFitContent(iframe) {
-    iframe.style.height = (iframe.contentWindow.document.documentElement.scrollHeight + 50) + "px";
-    iframe.contentDocument.body.style["overflow"] = 'hidden';
-}
-window.addEventListener('load', function() {
-    var iframe = document.getElementById('content');
-    resizeIframeToFitContent(iframe);
-});
-window.addEventListener('resize', function() {
-    var iframe = document.getElementById('content');
-    resizeIframeToFitContent(iframe);
-});
-</script>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:2"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">EN</label><label for="__tabbed_1_2">PL</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<h1 id="frontend-data-ai-portfolio">Frontend, Data &amp; AI Portfolio</h1>
+<p>I build modern, lightweight, and user-friendly interfaces by combining <strong>clean design</strong>, <strong>performance</strong>, and <strong>code clarity</strong>. My portfolio showcases not only <strong>frontend development projects</strong>, but also work related to <strong>Data Analysis, Artificial Intelligence, and Machine Learning</strong>.</p>
+<p>The projects presented focus on real-world problems and solid technical foundations, covering both <strong>user-facing applications</strong> and <strong>data-driven solutions</strong>.</p>
+<p>In the portfolio, you will find:</p>
+<ul>
+<li>responsive websites and web applications  </li>
+<li>frontend projects built with <strong>HTML, CSS, JavaScript / React and Streamlit</strong>  </li>
+<li>interactive and data-oriented applications  </li>
+<li>data analysis and exploratory data projects (EDA)  </li>
+<li>AI and machine learning experiments and prototypes  </li>
+<li>a modern approach to UI/UX design  </li>
+<li>attention to detail, accessibility, and performance  </li>
+<li>clean, maintainable, and scalable code  </li>
+</ul>
+<p>If you’d like to explore <strong>the full scope of my work — from frontend to data and AI</strong>, feel free to visit my complete portfolio:</p>
+<p><a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button md-button--primary" target="_blank">
+View My Full Portfolio
+</a></p>
+<hr />
+<h3 id="why-take-a-look">Why take a look?</h3>
+<p>This portfolio is a place where I present:
+- my design and development mindset<br />
+- my approach to building user interfaces and data-driven systems<br />
+- real projects rather than theoretical examples  </p>
+<p>The website is continuously updated with new frontend, data, and AI-related projects as I grow and gain experience.</p>
+</div>
+<div class="tabbed-block">
+<h1 id="portfolio-frontend-data-ai">Portfolio Frontend, Data &amp; AI</h1>
+<p>Tworzę nowoczesne, lekkie i intuicyjne interfejsy użytkownika, łącząc <strong>estetykę</strong>, <strong>wydajność</strong> oraz <strong>czytelność kodu</strong>. Moje portfolio prezentuje nie tylko <strong>projekty frontendowe</strong>, ale również realizacje z obszaru <strong>analizy danych, sztucznej inteligencji oraz uczenia maszynowego (Data / AI / ML)</strong>.</p>
+<p>Prezentowane projekty skupiają się na rozwiązywaniu realnych problemów — zarówno po stronie <strong>interfejsów użytkownika</strong>, jak i <strong>rozwiązań opartych na danych</strong> oraz modelach analitycznych.</p>
+<p>W portfolio znajdziesz m.in.:</p>
+<ul>
+<li>responsywne strony i aplikacje webowe  </li>
+<li>projekty frontendowe oparte o <strong>HTML, CSS, JavaScript / React i Streamlit</strong>  </li>
+<li>interaktywne aplikacje oraz wizualizacje danych  </li>
+<li>analizy danych i projekty typu <strong>EDA (Exploratory Data Analysis)</strong>  </li>
+<li>eksperymenty oraz prototypy z zakresu <strong>AI i Machine Learning</strong>  </li>
+<li>nowoczesne podejście do <strong>UI/UX</strong>  </li>
+<li>dbałość o dostępność, wydajność i detale  </li>
+<li>czysty, czytelny i skalowalny kod  </li>
+</ul>
+<p>Jeżeli chcesz zobaczyć <strong>pełny zakres moich prac — od frontend developmentu po Data i AI</strong>, zapraszam do mojego głównego portfolio:</p>
+<p><a href="https://adam-musial-amu.github.io/personal-homepage/" class="md-button md-button--primary" target="_blank">
+Zobacz moje pełne portfolio
+</a></p>
+<hr />
+<h3 id="dlaczego-warto-zajrzec">Dlaczego warto zajrzeć?</h3>
+<p>To miejsce, w którym pokazuję:
+- sposób myślenia projektowego i technicznego<br />
+- podejście do budowania interfejsów oraz systemów opartych na danych<br />
+- realne projekty, a nie tylko teoretyczne przykłady  </p>
+<p>Strona jest stale rozwijana i uzupełniana o nowe projekty frontendowe, data-science’owe oraz AI wraz z rozwojem mojego doświadczenia.</p>
+</div>
+</div>
+</div>
 
 
 
